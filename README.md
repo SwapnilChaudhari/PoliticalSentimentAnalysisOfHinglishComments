@@ -7,7 +7,7 @@ The dataset is made from the youtube Hinglih comments on the top two Indian poli
 Hinglish is a code mixed language of Hindi and English. In India some comments contain  English words in Hindi langusge. For example "Mera brother 5 months se work pe he." Which means "My brothe is working for 5 months." Here 'months','work','brother' are English words. The challengeis that there are no standard stopword, stemmer and lemmatizer libraries for Hinglish language and working with such mateforically rich language increases complexity on processing user based comments.    
 
 ## AIM:
-This experiment is performed on the youtube political Hinglish comments on two top political parties BJP and Congress. The aim of the experiment is to study the effectiveness of deep learning techniques  in extracting political sentiments from these comments. 
+This experiment is performed on the youtube political Hinglish comments on two top political parties BJP and Congress. The aim of the experiment is to study the effectiveness of deep learning techniques  in extracting political sentiments from these comments. In other words it is a two class classification problem to classify each comments either in favbour of BJP or CONGRESS.
 
 ## Employed algoriyhms
 1.Multilayer perceptron
